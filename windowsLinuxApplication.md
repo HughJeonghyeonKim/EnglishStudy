@@ -56,3 +56,8 @@
 
 3.1 관리자 권한으로 들어 간다 음
 
+---
+### 4. windows Linux에서 IP주소 획득후 display 환경변수 설정
+
+---
+### 5. xming GUI 테스트
